@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/Microsoft/TypeScript-Node-Starter/compare/@monorepo/server@0.1.0...@monorepo/server@0.2.0) (2019-06-16)
+
+
+### Features
+
+* **@monorepo/server:** Check precommit ([388fed3](https://github.com/Microsoft/TypeScript-Node-Starter/commit/388fed3))
+
+
+
+
+
 # 0.1.0 (2019-06-16)
 
 
