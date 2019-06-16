@@ -18,7 +18,7 @@
     "lint": "yarn lint-styles && tslint --fix packages/**/*.ts?(x)",
     "lint-styles": "stylelint \"**/*.scss\" --syntax scss --fix",
     "prettier": "prettier --write packages/**/*.ts?(x)",
-    "precommit": "yarn prettier && yarn lint"
+    "precommit": "yarn prettier && yarn lint && lerna version"
   },
   "devDependencies": {
     "husky": "^2.4.1",
