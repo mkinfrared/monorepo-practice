@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/Microsoft/TypeScript-Node-Starter/compare/@monorepo/server@0.2.1...@monorepo/server@0.2.2) (2019-06-16)
+
+
+### Bug Fixes
+
+* **Project:** Fixed extra loggin ([290a74c](https://github.com/Microsoft/TypeScript-Node-Starter/commit/290a74c))
+
+
+
+
+
 ## [0.2.1](https://github.com/Microsoft/TypeScript-Node-Starter/compare/@monorepo/server@0.2.0...@monorepo/server@0.2.1) (2019-06-16)
 
 
