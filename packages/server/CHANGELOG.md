@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/Microsoft/TypeScript-Node-Starter/compare/@monorepo/server@0.3.0...@monorepo/server@0.4.0) (2019-06-16)
+
+
+### Features
+
+* **#002:** Removed extra logging ([db29c3f](https://github.com/Microsoft/TypeScript-Node-Starter/commit/db29c3f)), closes [#002](https://github.com/Microsoft/TypeScript-Node-Starter/issues/002)
+
+
+
+
+
 # [0.3.0](https://github.com/Microsoft/TypeScript-Node-Starter/compare/@monorepo/server@0.2.2...@monorepo/server@0.3.0) (2019-06-16)
 
 
