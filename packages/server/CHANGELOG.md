@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/Microsoft/TypeScript-Node-Starter/compare/@monorepo/server@0.2.2...@monorepo/server@0.3.0) (2019-06-16)
+
+
+### Features
+
+* **Project:** Lerna with jetbrains ([4f137a0](https://github.com/Microsoft/TypeScript-Node-Starter/commit/4f137a0))
+
+
+
+
+
 ## [0.2.2](https://github.com/Microsoft/TypeScript-Node-Starter/compare/@monorepo/server@0.2.1...@monorepo/server@0.2.2) (2019-06-16)
 
 
