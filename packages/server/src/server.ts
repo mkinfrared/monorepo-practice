@@ -15,6 +15,8 @@ export let server: Server;
     );
   } catch (e) {
     console.log("Could not connect to database");
+    console.log("Could not connect to database");
+    console.log("Could not connect to database");
     server = app.listen(SERVER_PORT, () =>
       console.log(`Server is running in port ${SERVER_PORT}`)
     );
