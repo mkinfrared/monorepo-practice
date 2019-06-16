@@ -1,0 +1,66 @@
+// Scaffolding
+// -------------------------
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  margin-bottom: 75px;
+  padding-top: 60px;
+}
+
+footer {
+  bottom: 0;
+  height: 45px;
+  line-height: 45px;
+  position: absolute;
+  width: 100%;
+
+  p,
+  ul {
+    margin-bottom: 0;
+  }
+}
+
+// Input Fields
+// -------------------------
+
+textarea {
+  resize: vertical;
+}
+
+// Navbar
+// -------------------------
+
+.navbar-nav img {
+  color: wheat;
+  font-family: "Arial", sans-serif;
+  height: 30px;
+  margin: -15px 15px -15px;
+  width: 30px;
+}
+
+// Alerts
+// -------------------------
+
+.alert {
+  margin-top: 20px;
+}
+
+// Thumbnails
+// -------------------------
+
+.thumbnail {
+  border-radius: 0;
+  box-shadow: 0 0 5px #CCCCCC, inset 0 0 0 #000000;
+  padding: 0;
+}
+
+// Font Icons
+// -------------------------
+
+.fa {
+  margin-right: 6px;
+}
